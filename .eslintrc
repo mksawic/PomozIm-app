@@ -1,0 +1,14 @@
+{
+  "extends": "@react-native-community",
+  "rules": {
+    "quotes": [
+      2,
+      "single",
+      {
+        "avoidEscape": true,
+        "allowTemplateLiterals": true
+      }
+    ],
+    "comma-dangle": [1, "never"]
+  }
+}
